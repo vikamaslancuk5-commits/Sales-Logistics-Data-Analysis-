@@ -1,7 +1,7 @@
 # Аналіз комерційної ефективності та логістики глобальної компанії
 
 **Роль:** Data Analyst  
-**Інструменти та технології:** Python / SQL / Tableau, Data Visualization, Exploratory Data Analysis (EDA)
+**Інструменти та технології:** Python, Data Visualization, Exploratory Data Analysis (EDA)
 
 ---
 
